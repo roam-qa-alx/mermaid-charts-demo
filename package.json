@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-charts-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:roam-qa-alx/mermaid-charts-demo.git",
+  "author": "Alexander Lazaris <alexander.lazaris@weareroam.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mermaid": "^9.1.1"
+  }
+}
