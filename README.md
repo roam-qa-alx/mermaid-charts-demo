@@ -6,6 +6,14 @@
       B-->D;
       C-->D;
 ```
+
+## Pokemon flow chart
+```mermaid
+  graph TD;
+      Charmander-->Charmeleon;
+      Charmeleon-->Charizard;
+``` 
+
 ## User journey
 ```mermaid
 journey
