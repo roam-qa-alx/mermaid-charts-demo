@@ -12,7 +12,7 @@
   graph TD;
       Charmander-->Charmeleon;
       Charmeleon-->Charizard;
-```
+``` 
 
 ## User journey
 ```mermaid
